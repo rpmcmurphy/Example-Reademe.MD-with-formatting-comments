@@ -11,8 +11,6 @@
 <!-- Buttoned links | [![Image alt tag](href of image file)](Link of the whole image tag) -->
 <!-- head over to shields.io and make badges to link from here -->
 [![A custom hello badge](https://img.shields.io/badge/rparbez-hello%20me%20on%20twitter-green)](https://twitter.com/anonditosundar)
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
