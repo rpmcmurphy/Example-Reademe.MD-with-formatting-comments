@@ -9,7 +9,8 @@
 <!-- Big title -->
 # A big title with ID generated for deep linking
 <!-- Buttoned links | [![Image alt tag](href of image file)](Link of the whole image tag) -->
-![Discord chat](https://img.shields.io/discord/764058091431788545?color=green&label=rpmcmurphy&logo=discord&logoColor=white&style=flat-square)
+<!-- head over to shields.io and make badges to link from here -->
+[![A custom hello badge](https://img.shields.io/badge/rparbez-hello%20me%20on%20twitter-green)](https://www.twitter.com/rparbez)
 
 <!-- Tabbed line with gray text || blockquote -->
 > A small readme helper script [ReadME](https://www.makeareadme.com/).
@@ -25,8 +26,6 @@ A normal line of text.
 <!-- List -->
 And get all benefits of readme:
  - An example list
-
-<br/>
 
 <!-- Bigger than bolder text with ID linker generated and underline -->
 ## Features
@@ -108,6 +107,8 @@ mojombo/github-flavored-markdown#1
 <!-- Strikehtrough -->
 ~~this~~ to strikethrough a text
 
+<br>
+<br>
 <br>
 
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/rparbez)
