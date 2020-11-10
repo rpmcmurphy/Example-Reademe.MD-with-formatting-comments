@@ -71,35 +71,39 @@ How about an image with styling?
 <br>
 Let's add some heading tag.
 <br>
-# TThis is a h1 tag<h1>
-<br>
-###### This is a h6 tag<h6>
+# TThis is a h1 tag
+## This is a h2 tag
 
 
 <!-- Tasks list -->
 <br>
 A sample task list
+<br>
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 
 <!-- Tables -->
 <br>
 We can add tables like so with columns separated with pipe sign (|)
+<br>
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
-
+<br>
 <!-- Issue reference -->
 Any issues in github can be referred with #number of the issue.
-#1
-mojombo#1
-mojombo/github-flavored-markdown#1
+#1 <br>
+mojombo#1 <br>
+mojombo/github-flavored-markdown#1 <br>
 
+<br>
 <!-- Mention a user -->
 @mention for usernames notify the user 
 
+<br>
 <!-- Strikehtrough -->
 ~~this~~ to strikethrough a text
 
+<br>
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/rparbez)
 
 <br/>
