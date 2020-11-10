@@ -61,12 +61,6 @@ Or shell command like so
 $ npm i react-native
 ```
 
-<!-- Embed image and inline style -->
-
-<br>
-
-How about an image with styling?
-
 <br>
 
 <!-- Heading -->
