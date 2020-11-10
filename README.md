@@ -43,11 +43,13 @@ And get all benefits of readme:
 - Another list example with code inline `<head>code example inline</head>`
 
 You can blod text like this too **here** up to **here**.
+
 <br/>
 
 You can also link inside page like this: [features](#features).
 
 Let's add some codes with syntax highlighting like so-
+
 <!-- JS code snippet -->
 ```js
 import hello from 'world'
@@ -61,49 +63,72 @@ $ npm i react-native
 ```
 
 <!-- Embed image and inline style -->
+
 <br>
+
 How about an image with styling?
+
 <br>
+
 <img src="https://raw.githubusercontent.com/sultan99/react-on-lambda/gh-pages/assets/snippet-atom.png" style="border-radius: 4px;"/>
-<br/>
 
 <!-- Heading -->
-<br>
-Let's add some heading tag.
-<br>
-# TThis is a h1 tag
-## This is a h2 tag
 
+<br>
+
+Let's add some heading tag.
+
+# This is an h1 tag
+## This is an h2 tag
 
 <!-- Tasks list -->
 <br>
+
 A sample task list
+
 <br>
+
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 
 <!-- Tables -->
 <br>
-We can add tables like so with columns separated with pipe sign (|)
+
+We can add tables like so with columns separated with pipe sign
+
 <br>
+
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
-<br>
-<!-- Issue reference -->
-Any issues in github can be referred with #number of the issue.
-#1 <br>
-mojombo#1 <br>
-mojombo/github-flavored-markdown#1 <br>
 
 <br>
+
+<!-- Issue reference -->
+Any issues in github can be referred with #number of the issue.
+#1
+
+<br>
+
+mojombo#1
+
+<br>
+
+mojombo/github-flavored-markdown#1
+
+<br>
+
+<br>
+
 <!-- Mention a user -->
 @mention for usernames notify the user 
 
 <br>
+
 <!-- Strikehtrough -->
 ~~this~~ to strikethrough a text
 
 <br>
+
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/rparbez)
 
 <br/>
