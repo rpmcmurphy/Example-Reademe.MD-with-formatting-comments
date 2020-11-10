@@ -70,9 +70,10 @@ How about an image with styling?
 <!-- Heading -->
 <br>
 Let's add some heading tag.
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+<br>
+# TThis is a h1 tag<h1>
+<br>
+###### This is a h6 tag<h6>
 
 
 <!-- Tasks list -->
