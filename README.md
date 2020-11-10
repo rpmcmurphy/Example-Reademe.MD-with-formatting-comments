@@ -70,12 +70,7 @@ How about an image with styling?
 
 <br>
 
-<img src="https://raw.githubusercontent.com/sultan99/react-on-lambda/gh-pages/assets/snippet-atom.png" style="border-radius: 4px;"/>
-
 <!-- Heading -->
-
-<br>
-
 Let's add some heading tag.
 
 # This is an h1 tag
@@ -85,17 +80,12 @@ Let's add some heading tag.
 <br>
 
 A sample task list
-
-<br>
-
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 
+<br>
+
 <!-- Tables -->
-<br>
-
 We can add tables like so with columns separated with pipe sign
-
-<br>
 
 First Header | Second Header
 ------------ | -------------
@@ -106,34 +96,22 @@ Content from cell 1 | Content from cell 2
 <!-- Issue reference -->
 Any issues in github can be referred with #number of the issue.
 #1
-
 <br>
-
 mojombo#1
-
 <br>
-
 mojombo/github-flavored-markdown#1
-
 <br>
-
-<br>
-
 <!-- Mention a user -->
 @mention for usernames notify the user 
 
 <br>
-
 <!-- Strikehtrough -->
 ~~this~~ to strikethrough a text
 
 <br>
 
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/rparbez)
-
 <br/>
-<br/>
-
 <a href="https://www.buymeacoffee.com/rparbez" target="_blank">
   <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="Buy Me A Coffee"/>
 </a>
