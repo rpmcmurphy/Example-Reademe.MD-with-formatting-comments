@@ -1,31 +1,30 @@
 <!-- Link image -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/sultan99/react-on-lambda/gh-pages/assets/comics.png"/>
+    <img src="https://i.imgur.com/b3tiKiO.gif"/>
 </div>
 
 <br/>
 <br/>
 
 <!-- Big title -->
-# React on lambda
-<!-- Buttoned links | [![Link text](href)](Link of the whole thing) -->
-![GitHub package.json version](https://img.shields.io/github/package-json/v/sultan99/react-on-lambda.svg)
-[![Build Status](https://travis-ci.org/sultan99/react-on-lambda.svg?branch=master)](https://travis-ci.org/sultan99/react-on-lambda)
+# A big title with ID generated for deep linking
+<!-- Buttoned links | [![Image alt tag](href of image file)](Link of the whole image tag) -->
+![Discord chat](https://img.shields.io/discord/764058091431788545?color=green&label=rpmcmurphy&logo=discord&logoColor=white&style=flat-square)
 
 <!-- Tabbed line with gray text || blockquote -->
-> A tiny library that simplifies the use of [React](https://github.com/facebook/react) without JSX.
+> A small readme helper script [ReadME](https://www.makeareadme.com/).
 
 <br/>
 
 <!-- Normal text -->
-You have to wrap them by functions.
+A normal line of text.
 
 <!-- Bolder text -->
-#### Why not just use functions instead of jsx strings?
+#### Why not just make things big?
 
 <!-- List -->
-And get all benefits of functional programming:
- - splitting code into more reusable parts
+And get all benefits of readme:
+ - An example list
 
 <br/>
 
@@ -36,49 +35,60 @@ And get all benefits of functional programming:
 <br/>
 
 <!-- Linking -->
-[The project](https://github.com/sultan99/rol-vs-jsx) includes two applications written using
-React on lambda and JSX for comparisons.
+[The project](https://www.makeareadme.com/) includes features of writing readme easily.
 
 <!-- Bolder text with no ID linker generated -->
-**Render performance**
+**A title of a block**
 <!-- Inline code example -->
-- React on lambda: `8.50ms`
+- Another list example with code inline `<head>code example inline</head>`
 
-Most of time RoL showed faster results from **3%** up to **10%** than JSX version.
+You can blod text like this too **here** up to **here**.
 <br/>
 
-Read more info about symbol `λ` in the section: [editor configuration](#editor-configuration).
+You can also link inside page like this: [features](#features).
 
+Let's add some codes with syntax highlighting like so-
 <!-- JS code snippet -->
 ```js
-import λ from 'react-on-lambda'
+import hello from 'world'
 ```
 <br/>
 
+Or shell command like so
 <!-- Shell command code snippet -->
 ```sh
-$ npm i react-on-lambda react -S
+$ npm i react-native
 ```
 
 <!-- Embed image and inline style -->
+<br>
+How about an image with styling?
+<br>
 <img src="https://raw.githubusercontent.com/sultan99/react-on-lambda/gh-pages/assets/snippet-atom.png" style="border-radius: 4px;"/>
 <br/>
 
 <!-- Heading -->
+<br>
+Let's add some heading tag.
 # This is an <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
 
 
 <!-- Tasks list -->
+<br>
+A sample task list
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 
 <!-- Tables -->
+<br>
+We can add tables like so with columns separated with pipe sign (|)
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 
 <!-- Issue reference -->
+Any issues in github can be referred with #number of the issue.
 #1
 mojombo#1
 mojombo/github-flavored-markdown#1
@@ -87,14 +97,13 @@ mojombo/github-flavored-markdown#1
 @mention for usernames notify the user 
 
 <!-- Strikehtrough -->
-~~this~~
+~~this~~ to strikethrough a text
 
-[![Gitter](https://badges.gitter.im/react-on-lambda/community.svg)](https://gitter.im/react-on-lambda/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/sultan_arziev)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/rparbez)
 
 <br/>
 <br/>
 
-<a href="https://www.buymeacoffee.com/KGEzqayNQ" target="_blank">
+<a href="https://www.buymeacoffee.com/rparbez" target="_blank">
   <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="Buy Me A Coffee"/>
 </a>
