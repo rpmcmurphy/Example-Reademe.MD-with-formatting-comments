@@ -105,8 +105,7 @@ mojombo/github-flavored-markdown#1
 
 <br>
 <!-- Strikehtrough -->
-~~this~~
-to strikethrough a text
+~~double tildes around the words~~ or <del>deleted<del> to strikethrough a text
 
 <br>
 <br>
