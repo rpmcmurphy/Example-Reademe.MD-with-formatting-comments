@@ -105,7 +105,8 @@ mojombo/github-flavored-markdown#1
 
 <br>
 <!-- Strikehtrough -->
-~~this~~ to strikethrough a text
+~~this~~
+to strikethrough a text
 
 <br>
 <br>
